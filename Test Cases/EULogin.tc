@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EULogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9adbb1fd-d4f9-4429-a6fd-338c9b95f3e2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dd527c1d-11fe-417a-9b51-0d325a85473e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe68a3b5-695c-4a59-93bd-57c172e7509c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

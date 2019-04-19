@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CreateAlert,Chrome 72.0.3626.121,,2019-03-27 18:24:23,2019-03-27 18:24:56,"32,674s",FAILED
+,,,,,,
+Test Cases/EULogin,Chrome 72.0.3626.121,,2019-03-27 18:24:23,2019-03-27 18:24:34,"10,476s",PASSED
+"openBrowser("""")",Chrome 72.0.3626.121,,2019-03-27 18:24:24,2019-03-27 18:24:29,"4,541s",PASSED
+"navigateToUrl(""https://ofmvipqa03.orpheusdev.net/Login"")",Chrome 72.0.3626.121,,2019-03-27 18:24:29,2019-03-27 18:24:32,"3,305s",PASSED
+"verifyElementAttributeValue(findTestObject(""Page_Orpheus - ofmvipqa03 - ofmvipqa03/input_Username_UserName""), ""id"", ""UserName"", 0)",Chrome 72.0.3626.121,,2019-03-27 18:24:32,2019-03-27 18:24:32,"0,153s",PASSED
+"setText(findTestObject(""Page_Orpheus - ofmvipqa03 - ofmvipqa03/input_Username_UserName""), username)",Chrome 72.0.3626.121,,2019-03-27 18:24:32,2019-03-27 18:24:32,"0,216s",PASSED
+"click(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03/button_Sign in""))",Chrome 72.0.3626.121,,2019-03-27 18:24:32,2019-03-27 18:24:33,"0,160s",PASSED
+"setText(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03 - Provide your password/input_Password_Password""), password)",Chrome 72.0.3626.121,,2019-03-27 18:24:33,2019-03-27 18:24:34,"1,207s",PASSED
+"click(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03 - Provide your password/button_Continue""))",Chrome 72.0.3626.121,,2019-03-27 18:24:34,2019-03-27 18:24:34,"0,184s",PASSED
+,,,,,,
+Test Cases/Manage Alerts,Chrome 72.0.3626.121,,2019-03-27 18:24:34,2019-03-27 18:24:53,"19,120s",FAILED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/div_Messages  Alerts""))",Chrome 72.0.3626.121,,2019-03-27 18:24:34,2019-03-27 18:24:53,"18,810s",FAILED
+,,,,,,
+Test Cases/EULogout,Chrome 72.0.3626.121,,2019-03-27 18:24:53,2019-03-27 18:24:56,"2,513s",PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Sign out""))",Chrome 72.0.3626.121,,2019-03-27 18:24:53,2019-03-27 18:24:55,"1,563s",PASSED
+closeBrowser(),Chrome 72.0.3626.121,,2019-03-27 18:24:55,2019-03-27 18:24:56,"0,668s",PASSED

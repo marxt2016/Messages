@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Check</name>
+   <tag></tag>
+   <elementGuidId>16e3019b-a416-4ad5-b425-195706d903a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper__workarea']/section/div[2]/div/div/div/div[2]/div/div/div[2]/div[3]/div[2]/div/div/div/form/div[4]/div[3]/div/div[2]/div/div[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control__label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-stable-name</name>
+      <type>Main</type>
+      <value>AlertGroup[StatementTransactionSource][SpecificTransactionSources][SpecificTransactionSourcesMultipleChoice]Label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper__workarea&quot;)/section[@class=&quot;col__content&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;wrapper__inner&quot;]/div[@class=&quot;alerts-app&quot;]/div[@class=&quot;messages__wrapper messages__wrapper--detailed&quot;]/div[@class=&quot;messages__col messages-alerts&quot;]/div[@class=&quot;msg-settings-wrapper size-full&quot;]/div[@class=&quot;messages-alerts--detailed&quot;]/div[@class=&quot;alerts-types-list&quot;]/div[@class=&quot;panel panel--small panel--collapse&quot;]/div[@class=&quot;panel__body&quot;]/div[@class=&quot;settings-details__wrapper&quot;]/div[1]/div[@class=&quot;messages-alerts--detailed clearfix&quot;]/form[@class=&quot;col8 pull-left&quot;]/div[4]/div[3]/div[1]/div[@class=&quot;panel clearfix&quot;]/div[@class=&quot;panel__body&quot;]/div[@class=&quot;form-control-container col5 pull-left&quot;]/label[@class=&quot;custom-control custom-checkbox&quot;]/span[@class=&quot;custom-control__label&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='wrapper__workarea']/section/div[2]/div/div/div/div[2]/div/div/div[2]/div[3]/div[2]/div/div/div/form/div[4]/div[3]/div/div[2]/div/div[2]/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATM'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specific source'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACH'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit/Credit'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[2]/div/div[2]/label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

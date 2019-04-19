@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CreateAlert,Chrome 72.0.3626.121,,2019-03-27 18:25:54,2019-03-27 18:26:42,"48,529s",FAILED
+,,,,,,
+Test Cases/EULogin,Chrome 72.0.3626.121,,2019-03-27 18:25:54,2019-03-27 18:26:12,"17,314s",PASSED
+"openBrowser("""")",Chrome 72.0.3626.121,,2019-03-27 18:25:55,2019-03-27 18:26:00,"5,178s",PASSED
+"navigateToUrl(""https://ofmvipqa03.orpheusdev.net/Login"")",Chrome 72.0.3626.121,,2019-03-27 18:26:00,2019-03-27 18:26:10,"9,497s",PASSED
+"verifyElementAttributeValue(findTestObject(""Page_Orpheus - ofmvipqa03 - ofmvipqa03/input_Username_UserName""), ""id"", ""UserName"", 0)",Chrome 72.0.3626.121,,2019-03-27 18:26:10,2019-03-27 18:26:10,"0,176s",PASSED
+"setText(findTestObject(""Page_Orpheus - ofmvipqa03 - ofmvipqa03/input_Username_UserName""), username)",Chrome 72.0.3626.121,,2019-03-27 18:26:10,2019-03-27 18:26:10,"0,175s",PASSED
+"click(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03/button_Sign in""))",Chrome 72.0.3626.121,,2019-03-27 18:26:10,2019-03-27 18:26:10,"0,112s",PASSED
+"setText(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03 - Provide your password/input_Password_Password""), password)",Chrome 72.0.3626.121,,2019-03-27 18:26:10,2019-03-27 18:26:11,"1,162s",PASSED
+"click(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03 - Provide your password/button_Continue""))",Chrome 72.0.3626.121,,2019-03-27 18:26:11,2019-03-27 18:26:12,"0,177s",PASSED
+,,,,,,
+Test Cases/Manage Alerts,Chrome 72.0.3626.121,,2019-03-27 18:26:12,2019-03-27 18:26:40,"28,362s",FAILED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/div_Messages  Alerts""))",Chrome 72.0.3626.121,,2019-03-27 18:26:12,2019-03-27 18:26:30,"18,053s",PASSED
+delay(3),Chrome 72.0.3626.121,,2019-03-27 18:26:30,2019-03-27 18:26:33,"3,043s",PASSED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/div_Manage Alerts""))",Chrome 72.0.3626.121,,2019-03-27 18:26:33,2019-03-27 18:26:33,"0,228s",PASSED
+delay(3),Chrome 72.0.3626.121,,2019-03-27 18:26:33,2019-03-27 18:26:36,"3,006s",PASSED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/span_Secure Message Alert_toggle__switch""))",Chrome 72.0.3626.121,,2019-03-27 18:26:36,2019-03-27 18:26:37,"0,903s",PASSED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/span_Name of alert type Change in Contact Info Alert""))",Chrome 72.0.3626.121,,2019-03-27 18:26:37,2019-03-27 18:26:38,"0,946s",PASSED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/span_Email""))",Chrome 72.0.3626.121,,2019-03-27 18:26:38,2019-03-27 18:26:39,"0,976s",PASSED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/button_Save changes""))",Chrome 72.0.3626.121,,2019-03-27 18:26:39,2019-03-27 18:26:39,"0,199s",PASSED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/label_Email""))",Chrome 72.0.3626.121,,2019-03-27 18:26:39,2019-03-27 18:26:40,"0,618s",FAILED
+,,,,,,
+Test Cases/EULogout,Chrome 72.0.3626.121,,2019-03-27 18:26:40,2019-03-27 18:26:42,"2,103s",PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Sign out""))",Chrome 72.0.3626.121,,2019-03-27 18:26:40,2019-03-27 18:26:41,"1,202s",PASSED
+closeBrowser(),Chrome 72.0.3626.121,,2019-03-27 18:26:41,2019-03-27 18:26:42,"0,675s",PASSED

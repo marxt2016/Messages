@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add another Transaction Size Alert</name>
+   <tag></tag>
+   <elementGuidId>b06514a0-6f93-46e4-8990-1e1a149ebf5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper__workarea']/section/div[2]/div/div/div/div[2]/div/div/div[2]/div[3]/div[2]/div/div[2]/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click:addNewAlert</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-stable-name</name>
+      <type>Main</type>
+      <value>AddNewAlertSettingsItemButton</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add another Transaction Size Alert </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper__workarea&quot;)/section[@class=&quot;col__content&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;wrapper__inner&quot;]/div[@class=&quot;alerts-app&quot;]/div[@class=&quot;messages__wrapper messages__wrapper--detailed&quot;]/div[@class=&quot;messages__col messages-alerts&quot;]/div[@class=&quot;msg-settings-wrapper size-full&quot;]/div[@class=&quot;messages-alerts--detailed&quot;]/div[@class=&quot;alerts-types-list&quot;]/div[@class=&quot;panel panel--small panel--collapse&quot;]/div[@class=&quot;panel__body&quot;]/div[@class=&quot;settings-details__wrapper&quot;]/div[2]/p[1]/span[@class=&quot;link&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='wrapper__workarea']/section/div[2]/div/div/div/div[2]/div/div/div[2]/div[3]/div[2]/div/div[2]/p/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Size Alert'])[2]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Size Alert'])[1]/following::span[7]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save changes'])[3]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[3]/div[2]/div/div[2]/p/span</value>
+   </webElementXpaths>
+</WebElementEntity>

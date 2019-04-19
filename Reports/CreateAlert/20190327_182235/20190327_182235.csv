@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CreateAlert,Chrome 72.0.3626.121,,2019-03-27 18:22:39,2019-03-27 18:23:25,"46,540s",FAILED
+,,,,,,
+Test Cases/EULogin,Chrome 72.0.3626.121,,2019-03-27 18:22:39,2019-03-27 18:23:00,"21,099s",PASSED
+"openBrowser("""")",Chrome 72.0.3626.121,,2019-03-27 18:22:40,2019-03-27 18:22:54,"14,220s",PASSED
+"navigateToUrl(""https://ofmvipqa03.orpheusdev.net/Login"")",Chrome 72.0.3626.121,,2019-03-27 18:22:54,2019-03-27 18:22:58,"3,771s",PASSED
+"verifyElementAttributeValue(findTestObject(""Page_Orpheus - ofmvipqa03 - ofmvipqa03/input_Username_UserName""), ""id"", ""UserName"", 0)",Chrome 72.0.3626.121,,2019-03-27 18:22:58,2019-03-27 18:22:58,"0,164s",PASSED
+"setText(findTestObject(""Page_Orpheus - ofmvipqa03 - ofmvipqa03/input_Username_UserName""), username)",Chrome 72.0.3626.121,,2019-03-27 18:22:58,2019-03-27 18:22:59,"0,618s",PASSED
+"click(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03/button_Sign in""))",Chrome 72.0.3626.121,,2019-03-27 18:22:59,2019-03-27 18:22:59,"0,140s",PASSED
+"setText(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03 - Provide your password/input_Password_Password""), password)",Chrome 72.0.3626.121,,2019-03-27 18:22:59,2019-03-27 18:23:00,"1,254s",PASSED
+"click(findTestObject(""Object Repository/Page_Orpheus - ofmvipqa03 - ofmvipqa03 - Provide your password/button_Continue""))",Chrome 72.0.3626.121,,2019-03-27 18:23:00,2019-03-27 18:23:00,"0,176s",PASSED
+,,,,,,
+Test Cases/Manage Alerts,Chrome 72.0.3626.121,,2019-03-27 18:23:00,2019-03-27 18:23:21,"20,821s",FAILED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/div_Messages  Alerts""))",Chrome 72.0.3626.121,,2019-03-27 18:23:01,2019-03-27 18:23:21,"19,875s",PASSED
+"click(findTestObject(""Object Repository/Messages/Page_Dashboard/div_Manage Alerts""))",Chrome 72.0.3626.121,,2019-03-27 18:23:21,2019-03-27 18:23:21,"0,563s",FAILED
+,,,,,,
+Test Cases/EULogout,Chrome 72.0.3626.121,,2019-03-27 18:23:21,2019-03-27 18:23:25,"4,054s",PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/a_Sign out""))",Chrome 72.0.3626.121,,2019-03-27 18:23:22,2019-03-27 18:23:25,"3,028s",PASSED
+closeBrowser(),Chrome 72.0.3626.121,,2019-03-27 18:23:25,2019-03-27 18:23:25,"0,686s",PASSED
